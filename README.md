@@ -1,2 +1,16 @@
-# Kavach Authenticator
- I made this application using Flutter for our Kavach hackathon. This app provides us real time information about the a particular police officer such as location, battery levels, health, network strength, current condition of the smart device and mobile phone etc.
+# police
+
+This app will keep track of police man assigned at bandobast.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
